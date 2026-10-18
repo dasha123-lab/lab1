@@ -1,5 +1,5 @@
 #!/bin/bash
-printArray() {
+find_dublicate() {
   local arr=("$@")
   local n=${#arr[@]}
     for ((i=0; i<n; i++)); do
