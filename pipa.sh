@@ -13,4 +13,4 @@ find_dublicate() {
      echo "Элементы уникальны"
    return 0
   }
-printArray "$@" 
+find_dublicate "$@" 
