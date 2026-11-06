@@ -84,8 +84,7 @@ int main() {
      break;
         } else {
      free(N_str);
-     printf("Чичло должно быть натуральным!\n");
- 9.1                                             popi.c
+     printf("Число должно быть натуральным!\n")
         }
     }
 
